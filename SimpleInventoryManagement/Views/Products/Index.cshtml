@@ -1,0 +1,42 @@
+﻿@model List<InventoryTransactionsApp.Models.Product>
+
+<html>
+<head>
+    <title>List of Products</title>
+</head>
+<body>
+    <h1>List of Products</h1>
+    <br />
+    @ViewBag.Message
+    <br />
+    <form method="post" action="/Products/Index">
+        <input type="text" name="productName" />
+        <input type="submit" value="Search" />
+    </form>
+    <br />
+
+    <a href="/Products/Create">Create Product</a>
+    <table border="1">
+        <tr>
+            <th>Product Id</th>
+            <th>Product Name</th>
+            <th>Stock Level</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+            <th>&nbsp;</th>
+        </tr>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.ProductId</td>
+                <td>@product.Name</td>
+                <td>@product.StockLevel</td>
+                <td><a href="/Products/Details/@product.ProductId">detail</a></td>
+                <td><a href="/Products/Edit/@product.ProductId">edit</a></td>
+                <td><a href="/Products/Delete/@product.ProductId">delete</a></td>
+            </tr>
+        }
+    </table>
+
+</body>
+</html>

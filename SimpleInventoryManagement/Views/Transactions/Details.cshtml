@@ -1,0 +1,83 @@
+﻿@model IEnumerable<InventoryTransactionsApp.ViewModels.ViewTransactionInfo>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detail Transaction</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            padding-top: 20px;
+        }
+
+        .card {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+
+        .card-title {
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
+
+        .transaction-detail p {
+            margin-bottom: 5px;
+            font-size: 1.1rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title text-center mb-4">Transaction Details</h5>
+                <div class="row">
+                    <div class="col-md-6">
+                        <p><strong>Transaction ID:</strong> @Model.TransactionID</p>
+                        <p><strong>Product ID:</strong> @Model.ProductID</p>
+                        <p><strong>Product Name:</strong> @Model.ProductName</p>
+
+                        <p>
+                            <strong>Transaction Type:</strong>
+                            @{
+                                if (Model.TransactionType.HasValue)
+                                {
+                                    if (Model.TransactionType.Value)
+                                    {
+                                        <text>Restock</text>
+                                    }
+                                    else
+                                    {
+                                        <text>Sold</text>
+                                    }
+                                }
+                                else
+                                {
+                                    <text>Unknown</text> <!-- or handle the null case as needed -->
+                                }
+                            }
+                        </p>
+                        <p><strong>Quantity:</strong> @Model.Quantity</p>
+                        <p><strong>Date:</strong> @Model.Date</p>
+                    </div>
+                    <div class="col-md-6 text-md-right">
+                        <div class="text-center mt-4">
+                            <a href="@Url.Action("Index", "Transactions")" class="btn btn-primary">Back to Transactions</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS and dependencies (optional) -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js" integrity="sha384-KyZXEAg3QhqLMpG8r+WBV5k+3pv2h+8pFqWForQj5Rb6JNE1kLQ+qF02Y3Jl4+3h" crossorigin="anonymous"></script>
+</body>
+</html>

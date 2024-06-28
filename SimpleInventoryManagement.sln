@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryTransactionsApp", "SimpleInventoryManagement\InventoryTransactionsApp.csproj", "{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{C2B21609-E88B-4F9F-85EC-56AECBF4E7F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2B21609-E88B-4F9F-85EC-56AECBF4E7F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2B21609-E88B-4F9F-85EC-56AECBF4E7F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2B21609-E88B-4F9F-85EC-56AECBF4E7F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2B21609-E88B-4F9F-85EC-56AECBF4E7F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF465AB0-2C80-4B1A-9815-1424440D0BDB}
+	EndGlobalSection
+EndGlobal

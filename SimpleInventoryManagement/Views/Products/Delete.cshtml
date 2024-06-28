@@ -1,0 +1,18 @@
+﻿@model InventoryTransactionsApp.Models.Product
+
+
+<html>
+<head>
+    <title>Delete Product</title>
+</head>
+<body>
+    <h2>Delete Product</h2>
+    <form method="post" action="/Products/Delete">
+        <p>Apakah anda yakin akan mendelete product @Model.Name</p>
+        <input type="hidden" value="@Model.ProductId" name="ProductId" />
+        <div>
+            <input type="submit" value="Delete" />
+        </div>
+    </form>
+</body>
+</html>

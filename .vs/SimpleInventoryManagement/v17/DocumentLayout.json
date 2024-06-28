@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|c:\\users\\yemim\\web\\simpleinventorymanagement\\simpleinventorymanagement\\views\\transactions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|solutionrelative:simpleinventorymanagement\\views\\transactions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|c:\\users\\yemim\\web\\simpleinventorymanagement\\simpleinventorymanagement\\views\\transactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|solutionrelative:simpleinventorymanagement\\views\\transactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|c:\\users\\yemim\\web\\simpleinventorymanagement\\simpleinventorymanagement\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|solutionrelative:simpleinventorymanagement\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|c:\\users\\yemim\\web\\simpleinventorymanagement\\simpleinventorymanagement\\views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|solutionrelative:simpleinventorymanagement\\views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|c:\\users\\yemim\\web\\simpleinventorymanagement\\simpleinventorymanagement\\ef\\transactionef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|solutionrelative:simpleinventorymanagement\\ef\\transactionef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|c:\\users\\yemim\\web\\simpleinventorymanagement\\simpleinventorymanagement\\viewmodels\\viewtransactioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|solutionrelative:simpleinventorymanagement\\viewmodels\\viewtransactioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|c:\\users\\yemim\\web\\simpleinventorymanagement\\simpleinventorymanagement\\models\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|solutionrelative:simpleinventorymanagement\\models\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|c:\\users\\yemim\\web\\simpleinventorymanagement\\simpleinventorymanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|solutionrelative:simpleinventorymanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|c:\\users\\yemim\\web\\simpleinventorymanagement\\simpleinventorymanagement\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|solutionrelative:simpleinventorymanagement\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|c:\\users\\yemim\\web\\simpleinventorymanagement\\simpleinventorymanagement\\dal\\itransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|solutionrelative:simpleinventorymanagement\\dal\\itransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|c:\\users\\yemim\\web\\simpleinventorymanagement\\simpleinventorymanagement\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|solutionrelative:simpleinventorymanagement\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|c:\\users\\yemim\\web\\simpleinventorymanagement\\simpleinventorymanagement\\ef\\productef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|solutionrelative:simpleinventorymanagement\\ef\\productef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|c:\\users\\yemim\\web\\simpleinventorymanagement\\simpleinventorymanagement\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EEC837-9D0E-452E-BCEA-1DB5DD078F22}|SimpleInventoryManagement\\InventoryTransactionsApp.csproj|solutionrelative:simpleinventorymanagement\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B21609-E88B-4F9F-85EC-56AECBF4E7F6}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\yemim\\web\\simpleinventorymanagement\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B21609-E88B-4F9F-85EC-56AECBF4E7F6}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITransaction.cs",
+              "DocumentMoniker": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\DAL\\ITransaction.cs",
+              "RelativeDocumentMoniker": "SimpleInventoryManagement\\DAL\\ITransaction.cs",
+              "ToolTip": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\DAL\\ITransaction.cs",
+              "RelativeToolTip": "SimpleInventoryManagement\\DAL\\ITransaction.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:42:07.768Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\Views\\Transactions\\Details.cshtml",
+              "RelativeDocumentMoniker": "SimpleInventoryManagement\\Views\\Transactions\\Details.cshtml",
+              "ToolTip": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\Views\\Transactions\\Details.cshtml",
+              "RelativeToolTip": "SimpleInventoryManagement\\Views\\Transactions\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T20:11:37.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\Views\\Transactions\\Create.cshtml",
+              "RelativeDocumentMoniker": "SimpleInventoryManagement\\Views\\Transactions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\Views\\Transactions\\Create.cshtml",
+              "RelativeToolTip": "SimpleInventoryManagement\\Views\\Transactions\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T17:44:31.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SimpleInventoryManagement\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\Models\\Product.cs",
+              "RelativeToolTip": "SimpleInventoryManagement\\Models\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBAAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:53:45.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\Views\\Transactions\\Index.cshtml",
+              "RelativeDocumentMoniker": "SimpleInventoryManagement\\Views\\Transactions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\Views\\Transactions\\Index.cshtml",
+              "RelativeToolTip": "SimpleInventoryManagement\\Views\\Transactions\\Index.cshtml",
+              "ViewState": "AQIAALcAAAAAAAAAAAAswMcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T17:43:28.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "SimpleInventoryManagement\\Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "SimpleInventoryManagement\\Controllers\\TransactionsController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:02:11.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewTransactionInfo.cs",
+              "DocumentMoniker": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\ViewModels\\ViewTransactionInfo.cs",
+              "RelativeDocumentMoniker": "SimpleInventoryManagement\\ViewModels\\ViewTransactionInfo.cs",
+              "ToolTip": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\ViewModels\\ViewTransactionInfo.cs",
+              "RelativeToolTip": "SimpleInventoryManagement\\ViewModels\\ViewTransactionInfo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wBAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:20:05.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionEF.cs",
+              "DocumentMoniker": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\EF\\TransactionEF.cs",
+              "RelativeDocumentMoniker": "SimpleInventoryManagement\\EF\\TransactionEF.cs",
+              "ToolTip": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\EF\\TransactionEF.cs",
+              "RelativeToolTip": "SimpleInventoryManagement\\EF\\TransactionEF.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAgwJUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T09:01:30.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\Models\\InventoryDbContext.cs",
+              "RelativeDocumentMoniker": "SimpleInventoryManagement\\Models\\InventoryDbContext.cs",
+              "ToolTip": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\Models\\InventoryDbContext.cs",
+              "RelativeToolTip": "SimpleInventoryManagement\\Models\\InventoryDbContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswDYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T18:58:45.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "SimpleInventoryManagement\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\Models\\Transaction.cs",
+              "RelativeToolTip": "SimpleInventoryManagement\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:42:02.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "SimpleInventoryManagement\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "SimpleInventoryManagement\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T17:50:05.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductEF.cs",
+              "DocumentMoniker": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\EF\\ProductEF.cs",
+              "RelativeDocumentMoniker": "SimpleInventoryManagement\\EF\\ProductEF.cs",
+              "ToolTip": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\EF\\ProductEF.cs",
+              "RelativeToolTip": "SimpleInventoryManagement\\EF\\ProductEF.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAuwF0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:30:07.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "SimpleInventoryManagement\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\SimpleInventoryManagement\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "SimpleInventoryManagement\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:42:25.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\yemim\\web\\SimpleInventoryManagement\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAcwEcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T03:58:16.308Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
